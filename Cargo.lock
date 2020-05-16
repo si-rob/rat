@@ -116,7 +116,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rat"
+name = "rat-cat"
 version = "0.1.0"
 dependencies = [
  "structopt",
