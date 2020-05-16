@@ -1,0 +1,5 @@
+RAT - a clone of the Unix/GNU tool `cat`
+
+I wrote this as my first cli tool written in rust more of an exercise on learning rust.
+Feedback welcome
+
